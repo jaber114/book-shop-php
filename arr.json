@@ -1,0 +1,26 @@
+[
+  {
+    "FirstName": "Adam",
+    "LastName": "Smith",
+    "YearOfBirth": "1973",
+    "YearJoiningPersonetics": "2015"
+  },
+  {
+    "FirstName": "Benny",
+    "LastName": "Goren",
+    "YearOfBirth": "1980",
+    "YearJoiningPersonetics": "2017"
+  },
+  {
+    "FirstName": "Charles",
+    "LastName": "Darwin",
+    "YearOfBirth": "1985",
+    "YearJoiningPersonetics": "2018"
+  },
+  {
+    "FirstName": "David",
+    "LastName": "Bowie",
+    "YearOfBirth": "1990",
+    "YearJoiningPersonetics": "2019"
+  }
+]
